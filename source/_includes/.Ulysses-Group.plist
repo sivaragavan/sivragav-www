@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>asides</string>
+		<string>custom</string>
+		<string>post</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>after_footer.html</string>
+		</array>
+		<array>
+			<string>archive_post.html</string>
+		</array>
+		<array>
+			<string>article.html</string>
+		</array>
+		<array>
+			<string>disqus.html</string>
+		</array>
+		<array>
+			<string>facebook_like.html</string>
+		</array>
+		<array>
+			<string>footer.html</string>
+		</array>
+		<array>
+			<string>google_analytics.html</string>
+		</array>
+		<array>
+			<string>google_plus_one.html</string>
+		</array>
+		<array>
+			<string>head.html</string>
+		</array>
+		<array>
+			<string>header.html</string>
+		</array>
+		<array>
+			<string>navigation.html</string>
+		</array>
+		<array>
+			<string>twitter_sharing.html</string>
+		</array>
+	</array>
+</dict>
+</plist>
