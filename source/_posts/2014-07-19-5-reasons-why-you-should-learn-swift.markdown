@@ -12,6 +12,8 @@ Apple is making Swift their mainstream language to build iPhone and Mac Apps. Ev
 ### Functional Programming
 Swift is built on functional programming paradigms just like Scala, Ruby, Erlang, R, Python, Java Script and list goes on. These langauges have gained a lot of popularity in the recent years than langauges like Java, C, C++, Perl and PHP. The functional programming languages have clearly become more dominant in the developer community. The good news is that if you have experienced functional programming paradigms before, It is relatively easy to learn Swift. If you are new to these concepts, why not start with Swift.
 
+<!--more-->
+
 ### Have Fun
 Playground is a new interactive feature released in XCode that helps you test small code snippets before putting them in your codebase. It makes writing Swift code incredibly simple and fun. Type a line of code and the result appears immediately along with a lot of profiling information. If your code runs over time, for instance through a loop, you can watch its progress in the timeline assistant. The timeline can display a variable’s value over time or even a animation in the UI. Once you have perfected your code, it can go into your project. This is great tool to desing new algorithms and watch it progress step by step. It is also very helpful when testing out a new API or any third-party library.
 

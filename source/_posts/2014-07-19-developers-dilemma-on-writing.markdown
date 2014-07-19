@@ -14,6 +14,8 @@ Most of my previous attempts at writing has been in wordpress. I spend my most o
 ### What topic should I write about ?
 I get torn between a variety of topics starting from reviews of development frameworks to personal productivity. When I sit down to write, it all goes blank. All kinds of questions popup : Will my readers like this topic at all ? Should I be writing about X instead of Y ? For a good writer, topic shouldn’t be a barrier.
 
+<!--more-->
+
 ### Is it perfect and well organized ?
 Even before writing 10 lines, I start organising the content, moving them up and down, creating headings and adding images. It doesn’t just obstruct the flow for the writer, but also spoils the reader’s experience too. The best organisation for an article is probably the one that comes out of the draft. This helps readers to connect to the writer’s idea better.
 

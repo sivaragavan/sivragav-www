@@ -10,9 +10,11 @@ We all know that we shouldn’t compare Apples (anything) to Oranges (any other 
 
 We have developed tastes and preferences in products over time. Some prefer simple ones. Some prefer good looking ones. Some prefer Quantity. Some prefer Quality. Some prefer cheaper ones. Some prefer premium ones. But in most of the cases, these qualities are not very evident when we look at a product for the first time. As we start using it, we feel this doesn’t taste right. This is mostly because we are expecting an Apple to taste like an Orange or the reverse. This results in the dreaded comparison of Apples to Oranges.
 
-### The ultimate categorization of products
+### The ultimate categorization
 
-Let’s try to categorize our tastes into two broad groups, say Apples and Oranges. I understand. There can be a million different tastes that people might have. How can we fit all of them into just two groups ? But for simplifying the problem, lets assume that there are just two fruits, which are fundamentally different. This will certainly help in reducing our options to half, when making a decision. We will clearly know what to expect, when we by an Apple or an Orange.
+Let’s try to categorize our tastes into two broad groups, say Apples and Oranges.
+<!--more-->
+I understand. There can be a million different tastes that people might have. How can we fit all of them into just two groups ? But for simplifying the problem, lets assume that there are just two fruits, which are fundamentally different. This will certainly help in reducing our options to half, when making a decision. We will clearly know what to expect, when we by an Apple or an Orange.
 
 ### The Apples
 
