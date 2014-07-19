@@ -3,7 +3,7 @@ layout: post
 title: "5 Reasons why you should learn Swift"
 date: 2014-06-23 09:40:33 +0530
 comments: true
-categories: 
+categories: apple swift programming
 ---
 
 ### New Opportunities

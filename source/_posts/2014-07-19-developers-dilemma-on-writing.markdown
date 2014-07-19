@@ -3,7 +3,7 @@ layout: post
 title: "Developer’s Dilemma on writing"
 date: 2014-05-02 09:15:40 +0530
 comments: true
-categories: 
+categories: writing
 ---
 
 This article is my attempt to write something after a long break. I deleted my old blog with all the posts in it, since I never wrote anything in years. I have been busy building software all these years. I like creating stuff. But when it comes to writing, I face a multitude of problems.
