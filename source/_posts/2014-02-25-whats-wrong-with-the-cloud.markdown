@@ -42,4 +42,3 @@ Cloud is still a good option for organizations to distribute their content and d
 But probably not a good fit for user generated content.
 
 What do you think ? Leave your ideas/views in the comments section below.
-

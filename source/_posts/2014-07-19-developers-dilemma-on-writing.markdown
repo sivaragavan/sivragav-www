@@ -24,8 +24,7 @@ Writing is a very creative process. Lot of ideas flow out of my brain, when I st
 
 Today, I wanted to give a shot at writing without any of these distractions. Here I am writing this article as plain text in [Workflowy][1] and I have not yet figured out where I am going to host this.
 
-_Edit : I tried Medium. Didn't want to loose my traffic to them. Finally settled for [Jekyll/Octopress][2] on [Digital Ocean][3]. More on this in my next article._
+_Edit : I tried Medium. Didn't want to loose my traffic to them. [Finally settled for Jekyll/Octopress on Digital Ocean][2]._
 
 [1]:	http://workflowy.com
-[2]:	http://octopress.org
-[3]:	https://www.digitalocean.com
+[2]:	/2014/07/19/get-started-with-jekyll-octopress-on-a-vps-in-3-hours/
